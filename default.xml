@@ -1,0 +1,88 @@
+<library>
+<booklist>
+<book>
+<author>Jack London</author>
+<title>Martin Iden</title>
+<id>1</id>
+</book>
+<book>
+<author>Roger Jelyazny</author>
+<title>Nine princes in Amber</title>
+<id>2</id>
+</book>
+<book>
+<author>God</author>
+<title>Holy Bible</title>
+<id>3</id>
+</book>
+<book>
+<author>Gregory David Roberts</author>
+<title>Shantaram</title>
+<id>4</id>
+</book>
+<book>
+<author>John Steinback</author>
+<title>Grapes of Wrath</title>
+<id>5</id>
+</book>
+<book>
+<author>George Martin</author>
+<title>Game of Thrones</title>
+<id>6</id>
+</book>
+<book>
+<author>John Steinback</author>
+<title>Grapes of Wrath</title>
+<id>7</id>
+</book>
+<book>
+<author>George Martin</author>
+<title>Clash of Kings</title>
+<id>8</id>
+</book>
+<book>
+<author>George Martin</author>
+<title>Geast of Crows</title>
+<id>9</id>
+</book>
+<book>
+<author>George Martin</author>
+<title>Dance of Dragons</title>
+<id>10</id>
+</book>
+</booklist>
+<userlist>
+<librarian>
+<lastname>Ivanova</lastname>
+<firstname>Marya Ivanovna</firstname>
+<password>2a64d6563d9729493f91bf5b143365c0a7bec4025e1fb0ae67e307a0c3bed1c28cfb259fc6be768ab0a962b1e2c9527c5f21a1090a9b9b2d956487eb97ad4209</password>
+<login>login3</login>
+<id>3</id>
+</librarian>
+<librarian>
+<lastname>Smirnova</lastname>
+<firstname>Tatyana Petrovna</firstname>
+<password>11961811bd4e11f23648afbd2d5c251d2784827147f1731be010adaf0ab38ae18e5567c6fd1bee50a4cd35fb544b3c594e7d677efa7ca01c2a2cb47f8fb12b17</password>
+<login>login4</login>
+<id>4</id>
+</librarian>
+<reader>
+<adress>Hrushevskaya, 73</adress>
+<date>27/12/1999</date>
+<lastname>Zmushko</lastname>
+<firstname>Yury</firstname>
+<password>92a891f888e79d1c2e8b82663c0f37cc6d61466c508ec62b8132588afe354712b20bb75429aa20aa3ab7cfcc58836c734306b43efd368080a2250831bf7f363f</password>
+<login>login2</login>
+<id>2</id>
+</reader>
+<reader>
+<adress>Kazintsa, 34</adress>
+<date>09/05/2020</date>
+<lastname>Herman</lastname>
+<firstname>Iryna</firstname>
+<password>bc547750b92797f955b36112cc9bdd5cddf7d0862151d03a167ada8995aa24a9ad24610b36a68bc02da24141ee51670aea13ed6469099a4453f335cb239db5da</password>
+<login>login1</login>
+<id>1</id>
+</reader>
+</userlist>
+</library>
